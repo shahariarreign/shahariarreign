@@ -15,7 +15,7 @@
 * 📫 Reach me at [shahariar.mahmud99@gmail.com](mailto:shahariar.mahmud99@gmail.com)
 * 📄 [Check out my experience](https://docs.google.com/document/d/11nY82BB6em39JUkxV3zGd21ISyV3SwyQOvo4CzyZrkw/edit?usp=sharing)
 
-## 🛠️ Languages & Technologies
+## 🛠️ Languages & Technologies.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,django,react,opencv,pytorch,tensorflow,sklearn,pandas,mysql,git,github,linux,docker,figma&perline=10" />
